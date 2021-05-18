@@ -8,7 +8,7 @@
 
 🎥 My hobbies are:
  - Writing fiction;
- - Listening music;
+ - Listen music;
  - Photography;
  - Collecting;
  - and many other things...
