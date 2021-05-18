@@ -1,9 +1,8 @@
-<h1 align="center">Hi! 🙌 I'm Julian Vazquez</h1>
 <p align='center'>
-<img align='center' src='./assets/images/hello.gif' alt='Hiiiiii!!!!' width='100' height='100' />
+<img align='center' src='./assets/images/banner.gif' alt='My name is Julian Vazquez.' />
 </p>
 
-🔭 I’m currently working on [the final project of Henry's academy that is about medical services via online.](https://github.com/Ululette/PF8Samurai)
+🙌 I’m currently working on [the final project of Henry's academy that is about medical services via online.](https://github.com/Ululette/PF8Samurai)
 
 👨‍🎓 I want to learn **Python, Next.JS, No-SQL Databases**
 
