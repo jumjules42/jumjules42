@@ -1,6 +1,8 @@
 <h1 align="center">Hi! 🙌 I'm Julian Vazquez</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
+<p align='center'>
 <img align='center' src='./assets/images/hello.gif' alt='Hiiiiii!!!!' width='100' height='100' />
+</p>
 
 🔭 I’m currently working on [the final project of Henry's academy that is about medical services via online.](https://github.com/Ululette/PF8Samurai)
 
