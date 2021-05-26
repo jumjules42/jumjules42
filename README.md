@@ -22,7 +22,7 @@
 <a href="mailto:julianvazquez042@gmail.com" target="_blank"><img align="center" src="./assets/images/gmail.png" alt="julianvazquez042@gmail.com" height="30" width="auto" />📧 julianvazquez042@gmail.com</a>
 </p>
 
-<h3 align="center">Technologies I've learned:</h3>
+<h3 align="center">Technologies I've learned && I'm learning:</h3>
 <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/images/javascript.png" alt="javascript" width="40" height="40"/></a></p>
 
 <p align='center'>
