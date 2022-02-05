@@ -2,15 +2,15 @@
 <img align='center' src='./assets/images/banner.gif' alt='My name is Julian Vazquez.' />
 </p>
 
-🙌 I’m currently working on [the final project of Henry's academy that is about medical services via online.](https://github.com/Ululette/PF8Samurai)
+🙌 I’m currently working on Stefanini LATAM - Renault as Java Analyst Developer.
 
-👨‍🎓 I want to learn **Python, Next.JS, No-SQL Databases**
+👨‍🎓 I´m currently learning: Python and PHP.
 
 🎥 My hobbies are:
  - Writing fiction;
  - Listen music;
  - Photography;
- - Collecting;
+ - Be a dev
  - and many other things...
 > come and let's discover them together!
 
